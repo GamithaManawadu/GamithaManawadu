@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @GamithaManawadu
+- 👋 Hi, I’m @GamithaManawadu 
+- 🙋‍♂️ Visit me at [GamithaNow](https://gamithamanawadu.github.io/Gamitha.github.io/)
 - 👀 I’m interested in Programming Languages , UI/UX design , Cloud Computing 
 - 🌱 I’m currently learning React , Cloud Computing ..
 - 💞️ I’m looking for an Internship on Front end software development , Back end software development , Full stack software development
