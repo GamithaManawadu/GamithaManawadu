@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning React , Cloud Computing ..
 - 💞️ I’m looking for an Internship on Front end software development , Back end software development , Full stack software development
 - 📫 Reach me at gamithamanawadu26@gmail.com
-- Be connected with me <br/>[<img src="/assets/img/facebook.png" alt="foo" title="facebook" href="http://www.facebook.com/gamitha.ma-nawadu.7/" />](http://www.facebook.com/gamitha.ma-nawadu.7/)
+- 💬 Be connected with me <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="/assets/img/facebook.png" alt="foo" title="Facebook" />](http://www.facebook.com/gamitha.ma-nawadu.7/)  &nbsp;   [<img src="/assets/img/linkedin.png" alt="foo" title="Linkedin"  />](http://www.linkedin.com/in/gamitha-manawadu) &nbsp;  [<img src="/assets/img/instagram.png" alt="foo" title="Instagram"  />](https://www.instagram.com/gamitha98_/)
+
+
 
 
 <!---
