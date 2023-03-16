@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m Gamitha Manawadu 
-# [img src="/assets/img/Hi, I'm Gamitha.gif"  title="Hi, I'm Gamitha" />]
+
 - 🙋‍♂️ Visit me at https://gamitha.netlify.app/
 - 👀 I’m interested in Programming Languages , UI/UX design , Cloud Computing 
 - 🌱 I’m currently learning React , Cloud Computing ..
