@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Gamitha Manawadu 
-# [<img src="/assets/img/Hi, I'm Gamitha.gif"  title="Hi, I'm Gamitha" />](https://gamitha.netlify.app/)
-- 🙋‍♂️ Visit me at [GamithaNow](https://gamithamanawadu.github.io/Gamitha.github.io/)
+# [<img src="/assets/img/Hi, I'm Gamitha.gif"  title="Hi, I'm Gamitha" />]
+- 🙋‍♂️ Visit me at [GamithaNow]((https://gamitha.netlify.app/))
 - 👀 I’m interested in Programming Languages , UI/UX design , Cloud Computing 
 - 🌱 I’m currently learning React , Cloud Computing ..
 - 💞️ I’m looking for an Internship on Front end software development , Back end software development , Full stack software development
