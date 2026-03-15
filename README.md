@@ -1,4 +1,4 @@
-<img align="center" src="assets/img/Hi, I'm Gamitha.gif">
+<img align="center" src="cover.gif">
 <h1 align="center">Hi 👋, I'm Gamitha</h1>
 <h3 align="center">Software Developer | AI - ML </h3>
 
