@@ -1,10 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gamitha%20Manawadu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%E2%86%92%20AI%2FML%20Explorer%20%F0%9F%A7%A0&descAlignY=55&descSize=18" />
-</div>
+<img align="center" src="assets/img/Hi, I'm Gamitha.gif">
+<h1 align="center">Hi 👋, I'm Gamitha</h1>
+<h3 align="center">Software Developer | AI - ML </h3>
+
  
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Engineer+%7C+AI%2FML+Student+%F0%9F%A7%A0;Building+Intelligent+Systems+from+NZ+%F0%9F%87%B3%F0%9F%87%BF;Teaching+Machines+to+Think+%E2%80%94+One+Epoch+at+a+Time;TypeScript+%2B+Python+%2B+Neural+Nets+%3D+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Engineer+%7C+AI%2FML+%F0%9F%A7%A0;Machine+Learning+Engineer+in+the+Making+%F0%9F%A7%A0;Building+Models+that+Solve+Real+Problems+%F0%9F%93%88;Computer+Vision+%7C+NLP+%7C+Predictive+Analytics;Open+to+AI+%2F+ML+Opportunities+%F0%9F%9A%80"alt="Typing SVG" />
   </a>
 </div>
  
@@ -27,65 +28,21 @@
  
 ---
  
-## 🧠 `about_me.json`
+## 👋 About Me
  
-```json
-{
-  "name"        : "Gamitha Manawadu",
-  "location"    : "🇳🇿 Auckland, New Zealand",
-  "education"   : "SLIIT",
-  "current_role": "Software Engineer → AI/ML Learner",
-  "portfolio"   : "https://gamitha.netlify.app/",
- 
-  "origin_story": [
-    "Started with .NET & JavaScript building SaaS products",
-    "Fell in love with the idea of intelligent systems",
-    "Now exploring the space where code meets cognition 🧬"
-  ],
- 
-  "building_with": {
-    "frontend"  : ["TypeScript", "React", "Next.js"],
-    "backend"   : [".NET", "Node.js", "Express"],
-    "ai_ml"     : ["Python", "PyTorch", "scikit-learn", "Pandas", "NumPy"],
-    "tools"     : ["Git", "Docker", "Jupyter", "VS Code"]
-  },
- 
-  "mission"     : "Bridge real-world engineering with AI to build systems that matter",
-  "open_to"     : ["AI/ML Roles", ".NET Opportunities", "Collaborations"]
+```python
+gamitha = {
+    "name"       : "Gamitha Manawadu",
+    "location"   : "Auckland, New Zealand 🇳🇿",
+    "education"  : "SLIIT",
+    "focus"      : "Machine Learning & AI Engineering",
+    "portfolio"  : "https://gamitha.netlify.app/",
+    "open_to"    : "AI / ML roles & collaborations 🚀",
 }
 ```
  
 ---
- 
-## 🚀 The Pivot — From Engineer to AI Builder
- 
-> *"I'm not just learning AI/ML — I'm bringing 37 repositories of real-world engineering experience with me."*
- 
-```
-PAST  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▶  FUTURE
-│                                                              │
-│  TypeScript  →  Python        OOP  →  Neural Networks       │
-│  REST APIs   →  ML Pipelines  SaaS  →  Intelligent Apps     │
-│  .NET MVC    →  PyTorch       Data  →  Predictions          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
- 
----
- 
-## 📊 Learning Progress
- 
-```
-Mathematics & Stats     ████████████░░░░░░░░   60%  📐
-Python for ML           ██████████████░░░░░░   70%  🐍
-Data Wrangling          ████████████░░░░░░░░   60%  📊
-Classical ML            ████████░░░░░░░░░░░░   40%  🌲
-Neural Networks         ██████░░░░░░░░░░░░░░   30%  🧠
-Computer Vision         ████░░░░░░░░░░░░░░░░   20%  👁️
-NLP & Transformers      ██░░░░░░░░░░░░░░░░░░   10%  💬
-Reinforcement Learning  ░░░░░░░░░░░░░░░░░░░░    0%  🎮  ← next
-```
- 
+
 ---
  
 ## 🛠️ Tech Arsenal
@@ -122,17 +79,13 @@ Reinforcement Learning  ░░░░░░░░░░░░░░░░░░�
  
 ## 📂 Featured Projects
  
-<div align="center">
- 
-| 🚀 Project | 💡 What It Does | 🔧 Stack | ⭐ |
-|:---|:---|:---|:---:|
-| [**RentalWise**](https://github.com/GamithaManawadu/RentalWise) | Smart rental management platform | TypeScript, React | 🔥 |
-| [**fashow-front**](https://github.com/GamithaManawadu/fashow-front) | Frontend showcase application | JavaScript | ⚡ |
-| [**Netflix Clone**](https://github.com/GamithaManawadu/Netflix-clone-App) | Full-stack streaming UI clone | JavaScript | 🎬 |
-| [**RentJet**](https://github.com/GamithaManawadu/RentJet-Online-Vehicle-Rental-System) | Online vehicle rental system | JavaScript | 🚗 |
-| 🧠 **ML Project** *(coming soon)* | First AI/ML model in production | Python, PyTorch | 🔜 |
- 
-</div>
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [🏠 House Price Prediction](https://github.com/GamithaManawadu/House-Price-Prediction-for-Kaggle-Competition) | Kaggle competition — regression modelling on real estate data | Python, Jupyter |
+| [💬 Sentiment Analysis: TF-IDF vs BERT](https://github.com/GamithaManawadu/Sentiment-Analysis-TF-IDF-vs-BERT) | Comparing classical NLP vs transformer-based approach | Python, BERT, Jupyter |
+| [🫁 Medical X-Ray Classification](https://github.com/GamithaManawadu/Medical-X-Ray-Classification-Normal-vs-Pneumonia) | CNN to classify chest X-rays: Normal vs Pneumonia | Python, CNN, Jupyter |
+| [🗺️ ML Roadmap](https://github.com/GamithaManawadu/Machine-Learning-Roadmap) | Personal structured learning path through ML concepts | Python, Jupyter |
+| [🧪 ML Practice Projects](https://github.com/GamithaManawadu/ML-Practice-Projects) | Collection of hands-on ML experiments & exercises | Python, Jupyter |
  
 ---
  
@@ -145,10 +98,6 @@ Reinforcement Learning  ░░░░░░░░░░░░░░░░░░�
  
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GamithaManawadu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9" />
-</div>
- 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GamithaManawadu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
  
 ---
@@ -197,27 +146,7 @@ jobs:
  
 ---
  
-## 📅 Current Status
- 
-<div align="center">
- 
-```
-╔══════════════════════════════════════════════════════════╗
-║              GAMITHA'S LOG — 2025 / 2026                 ║
-╠══════════════════════════════════════════════════════════╣
-║  📖 Reading    →  "Hands-On ML" by Aurélien Géron       ║
-║  🎓 Studying   →  fast.ai Practical Deep Learning       ║
-║  🏗️  Building   →  First ML model for production         ║
-║  🌏 Located    →  Auckland, New Zealand 🇳🇿              ║
-║  🎯 Goal       →  AI-powered SaaS that ships in 2026    ║
-╚══════════════════════════════════════════════════════════╝
-```
- 
-</div>
- 
 ---
- 
-## 💭 Philosophy
  
 <div align="center">
  
@@ -243,7 +172,4 @@ or anything that involves solving hard problems with code.
  
 ---
  
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-  <sub>⚡ Built with curiosity, caffeine & gradient descent ⚡</sub>
-</div>
+
