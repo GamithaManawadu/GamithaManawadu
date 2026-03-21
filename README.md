@@ -115,8 +115,8 @@ gamitha = {
 <div align="center">
  
 > "The question is not whether machines can think,
-> *it's whether we are bold enough to build the ones that do."*
- 
+> *it's whether we are bold enough to build the ones that do."* 
+>
 </div>
  
 ---
