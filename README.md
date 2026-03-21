@@ -1,5 +1,5 @@
 <img align="center" src="cover.gif">
-<h1 align="center">Hi 👋, I'm Gamitha</h1>
+<h2 align="center">Hi 👋, I'm Gamitha</h1>
 <h3 align="center">Software Developer | AI - ML </h3>
 
  
@@ -28,7 +28,7 @@
  
 ---
  
-## 👋 About Me
+### 👋 About Me
  
 ```python
 gamitha = {
@@ -42,10 +42,8 @@ gamitha = {
 ```
  
 ---
-
----
  
-## 🛠️ Tech Arsenal
+### 🛠️ Tech Arsenal
  
 <div align="center">
  
@@ -77,7 +75,7 @@ gamitha = {
  
 ---
  
-## 📂 Featured Projects
+### 📂 Featured Projects
  
 | Project | Description | Stack |
 |:--------|:------------|:------|
@@ -89,7 +87,7 @@ gamitha = {
  
 ---
  
-## 📈 GitHub Stats
+### 📈 GitHub Stats
  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GamithaManawadu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&count_private=true"/>
@@ -102,7 +100,7 @@ gamitha = {
  
 ---
  
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
  
 <div align="center">
   <picture>
@@ -116,14 +114,14 @@ gamitha = {
  
 <div align="center">
  
-> *"The question is not whether machines can think —*
+> "The question is not whether machines can think,
 > *it's whether we are bold enough to build the ones that do."*
  
 </div>
  
 ---
  
-## 🤝 Let's Build Something
+### 🤝 Let's Build Something
  
 <div align="center">
  
