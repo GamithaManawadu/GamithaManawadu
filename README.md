@@ -91,10 +91,7 @@ gamitha = {
  
 ### 📈 GitHub Stats
  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GamithaManawadu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamithaManawadu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
-</div>
+
  
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GamithaManawadu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9" />
