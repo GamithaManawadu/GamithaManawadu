@@ -82,7 +82,7 @@ gamitha = {
 | [📊 MLOps Churn Pipeline](https://github.com/GamithaManawadu/MLOps-Churn-Pipeline) | An end-to-end MLOps pipeline for predicting telecom customer churn | MLflow, Optuna, XGBoost, LightGBM, scikit-learn, FastAPI, Pandas, Matplotlib, Seaborn |
 | [🤖 RAG ML Chatbot](https://github.com/GamithaManawadu/RAG-ML-Chatbot) | A Retrieval-Augmented Generation chatbot that answers machine learning questions by searching through my learning and project explanation files. | LangChain, ChromaDB, Sentence-Transformers, UnstructuredHTMLLoader, Gemini API, Gradio, Python |
 | [🔎 Object Detection with YOLOv8](https://github.com/GamithaManawadu/YOLO-Object-Detection-Web-App) | A full-featured web application that detects objects in images, batch uploads, video, and webcam feeds using YOLOv8. Built with Streamlit and deployed on HuggingFace Spaces. | Streamlit, YOLOv8 (Ultralytics), OpenCV, PIL, Plotly, Pandas, SciPy, HuggingFace Spaces |
-| [🏠 House Price Prediction](https://github.com/GamithaManawadu/House-Price-Prediction-for-Kaggle-Competition) | Kaggle competition — regression modelling on real estate data | Python, Jupyter |
+| [🏠 House Price Prediction](https://github.com/GamithaManawadu/House-Price-Prediction-for-Kaggle-Competition) | Kaggle competition, regression modelling on real estate data | Python, Jupyter |
 | [💬 Sentiment Analysis: TF-IDF vs BERT](https://github.com/GamithaManawadu/Sentiment-Analysis-TF-IDF-vs-BERT) | Comparing classical NLP vs transformer-based approach | Python, BERT, Jupyter |
 | [💀 Medical X-Ray Classification](https://github.com/GamithaManawadu/Medical-X-Ray-Classification-Normal-vs-Pneumonia) | CNN to classify chest X-rays: Normal vs Pneumonia | Python, CNN, Jupyter |
 
